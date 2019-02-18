@@ -17,6 +17,8 @@ pyLDAvis
 numpy
 pandas
 matplotlib
+urllib
+bs4
 ```
 
 ## Installation
