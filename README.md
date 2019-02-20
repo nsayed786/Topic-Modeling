@@ -59,7 +59,7 @@ In traditional method you have to define rules for each company review, which is
 ```
 
 ## References
-https://www.analyticsvidhya.com/blog/2016/08/beginners-guide-to-topic-modeling-in-python/
-https://www.machinelearningplus.com/nlp/topic-modeling-gensim-python/
-https://www.analyticsvidhya.com/blog/2018/10/mining-online-reviews-topic-modeling-lda/
+https://www.analyticsvidhya.com/blog/2016/08/beginners-guide-to-topic-modeling-in-python/<br/>
+https://www.machinelearningplus.com/nlp/topic-modeling-gensim-python/<br/>
+https://www.analyticsvidhya.com/blog/2018/10/mining-online-reviews-topic-modeling-lda/<br/>
 https://www.analyticsvidhya.com/blog/2018/10/stepwise-guide-topic-modeling-latent-semantic-analysis/
